@@ -1,0 +1,17 @@
+/* Drag-and-Drop Editor styles */
+.drag-and-drop-editor {
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  .drag-and-drop-editor .item {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+  }
+  
+  .drag-and-drop-editor .item:hover {
+    background-color: #f1f1f1;
+  }
+  

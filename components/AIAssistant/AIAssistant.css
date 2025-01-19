@@ -1,0 +1,36 @@
+/* AI Assistant Styles */
+.ai-assistant {
+    background-color: #f9f9f9;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .ai-suggestions {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    max-width: 500px;
+    text-align: left;
+  }
+  
+  .ai-suggestions p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+  }
+  
+  .ai-suggestions button {
+    background-color: #ff6f61;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .ai-suggestions button:hover {
+    background-color: #e55e51;
+  }
+  

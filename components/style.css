@@ -1,0 +1,26 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    background-color: #ff6f61;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #e55e51;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  /* Add more global styles as needed */
+  

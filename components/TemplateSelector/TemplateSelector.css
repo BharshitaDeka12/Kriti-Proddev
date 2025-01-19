@@ -1,0 +1,41 @@
+/* Template Selector Styles */
+.template-selector {
+    background-color: #f9f9f9;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .template-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .template-card {
+    width: 200px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.3s;
+    text-align: center;
+  }
+  
+  .template-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .template-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .template-card h3 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
